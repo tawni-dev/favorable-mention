@@ -1,4 +1,4 @@
-angular.module('favorableMention', ['ui.router']);
+var favorableMention = angular.module('favorableMention', ['ui.router']);
 
 favorableMention.config(function($stateProvider, $urlRouterProvider) {
 
